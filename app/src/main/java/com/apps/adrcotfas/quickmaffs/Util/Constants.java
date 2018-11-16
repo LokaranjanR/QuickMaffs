@@ -1,4 +1,4 @@
-package com.apps.adrcotfas.goodtime.Util;
+package com.apps.adrcotfas.quickmaffs.Util;
 
 public class Constants {
 
