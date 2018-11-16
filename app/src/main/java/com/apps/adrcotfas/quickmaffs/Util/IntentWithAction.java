@@ -1,4 +1,4 @@
-package com.apps.adrcotfas.goodtime.Util;
+package com.apps.adrcotfas.quickmaffs.Util;
 
 import android.content.Context;
 import android.content.Intent;
