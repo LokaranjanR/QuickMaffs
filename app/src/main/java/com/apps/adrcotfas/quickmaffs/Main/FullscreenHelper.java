@@ -1,4 +1,4 @@
-package com.apps.adrcotfas.goodtime.Main;
+package com.apps.adrcotfas.quickmaffs.Main;
 
 import android.annotation.SuppressLint;
 import android.os.Handler;
